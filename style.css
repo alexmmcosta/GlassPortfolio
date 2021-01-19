@@ -87,16 +87,15 @@ main {
 }
 
 .contact h2{
-    width: 50%;
+    width: 30%;
     color: white;
     font-weight: 600;
 }
-erer
 
 .contact img {
     position: absolute;
-    top: -0.5%;
-    right: 0.5%;
+    top: 25%;
+    right: 5%;
 }
 
 .projects{
