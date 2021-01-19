@@ -86,11 +86,11 @@ main {
     margin: 2rem 0rem;
     padding: 1rem 1rem;
     align-items: center;
-    z-index: 0;
 }
 
 .link h2{
     padding: 0rem 2rem;
+    color: white;
 }
 
 .contact {
